@@ -1,6 +1,10 @@
-# TARSolution
+<p align="center">
+  <img src="./tarsolution-mark.svg" width="80" alt="tarsolution. logo" />
+</p>
 
-**End-to-end product solutions.**
+<h1 align="center">tarsolution.</h1>
+
+<p align="center"><strong>End-to-end product solutions.</strong></p>
 
 From hardware and infrastructure to the software people use, we design and build connected solutions across the technology stack.
 
